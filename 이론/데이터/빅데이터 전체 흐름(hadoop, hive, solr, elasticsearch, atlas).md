@@ -23,5 +23,5 @@
 ### 전체 흐름 정리
 
 Data Lake의 방대한 데이터를 빠르고 효율적으로 관리하기 위해 hadoop 등의 DB를 사용.
-그에 해당하는 DBMS로 hive, hbase 등이 있고,  ui적으로 개선되고 사용하기 편한 atlas가 있다.
+그에 해당하는 DBMS로 hive, hbase 등이 있고, ui적으로 개선되고 사용하기 편한 atlas가 있다.
 또한 검색 속도가 매우 중요하므로 solr, elasticsearch등의 검색엔진도 사용.
